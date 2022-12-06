@@ -10,7 +10,7 @@
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gerald-lofton&label=Profile%20views&color=0eb437&style=flat" alt="gerald-lofton" />
-<a href="https://github.com/DenverCoder1?tab=followers">
+<a href="https://github.com/Gerald-Lofton?tab=followers">
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Gerald-Lofton?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
@@ -22,8 +22,6 @@
 - I'm currently working on [FloodWeather](https://floodweather.netlify.app/Home)
 
 - 🌱 I'm currently learning **Strengthen my skills in Software Development**
-
-- ⚡ Fun fact **I jumped out of a airplane, but I never landed in one ...**
 </p>
 <br>
 
@@ -37,7 +35,7 @@
 
 <p align="center">
 <a href="https://codepen.io/gerald-lofton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gerald-lofton" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/gerald lofton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerald lofton" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/gerald-l-555420212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerald lofton" height="50" width="50" /></a>
 </p>
 
 <br>
