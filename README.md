@@ -1,3 +1,5 @@
+![FS LinkedIn Banner Code](https://user-images.githubusercontent.com/86092569/206061013-f673c80e-01bf-4939-bd42-128f90e40348.png)
+
 <h1 align="center"><b>Hi 👋, I'm Gerald Lofton</b></h1>
 
 <br>
