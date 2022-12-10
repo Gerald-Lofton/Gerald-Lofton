@@ -21,9 +21,9 @@
 <br>
 <p align="center">
 
-- I'm currently working on [FloodWeather](https://floodweather.netlify.app/Home)
+- I'm currently working on my app [FloodWeather](https://floodweather.netlify.app/Home)
 
-- 🌱 I'm currently learning **Strengthen my skills in Software Development**
+- 🌱 I'm currently learning to on **Bettering my skills in Software Development**
 </p>
 <br>
 
@@ -31,7 +31,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT393&size=25&duration=2000&pause=1000&color=00F701&center=true&vCenter=true&width=435&lines=Connect+with+me%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT393&size=25&duration=1000&pause=1000&color=00F701&center=true&vCenter=true&width=435&lines=Connect+with+me%3A)](https://git.io/typing-svg)
 
 <br>
 
