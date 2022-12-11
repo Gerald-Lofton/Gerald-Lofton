@@ -12,7 +12,7 @@
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gerald-lofton&label=Profile%20views&color=0eb437&style=flat" alt="gerald-lofton" />
-<a href="https://github.com/Gerald-Lofton?tab=followers">
+<a href="https://github.com/Gerald-Lofton?tab=followers">&nbsp;&nbsp;
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Gerald-Lofton?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
