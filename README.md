@@ -2,12 +2,17 @@
 
 <h1 align="center"><b>Hi 👋, I'm Gerald Lofton</b></h1>
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gerald-l-555420212//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/GeraldLofton)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@GeraldLofton)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codesandbox.io/u/Gerald-Lofton)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dev.page/geraldlofton)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg' alt='npm' height='40'>](https://www.npmjs.com/~geraldlofton)
+  
 <br>
-<p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=4000&pause=500&color=00F743&center=true&vCenter=true&width=500&height=60&lines=Full-Stack+Developer;and;Full-Stack+Teaching+Assistant)](https://git.io/typing-svg)
+<p align="center">
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=500&size=38&duration=1000&pause=1500&color=00F70E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer)](https://git.io/typing-svg)
 
 </p>
+
+#
 
 <br>
 
@@ -19,11 +24,7 @@
 #
 
 <br>
-<p align="center">
-
-- I'm currently working on my app [FloodWeather](https://floodweather.netlify.app/Home)
-
-- 🌱 I'm currently learning to on **Bettering my skills in Software Development**
+<p align="center">🌱 <b>I'm currently learning to on Bettering my skills in Software Development<b>
 </p>
 <br>
 
