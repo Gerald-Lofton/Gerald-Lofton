@@ -8,7 +8,7 @@
 
 <p align="center">
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=500&size=38&duration=1000&pause=1500&color=00F70E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=500&size=35&duration=1000&pause=1500&color=00F70E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer)](https://git.io/typing-svg)
 
 </p>
 
