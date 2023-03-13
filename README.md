@@ -2,13 +2,13 @@
 
 <h1 align="center"><b>Hi 👋, I'm Gerald Lofton</b></h1>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gerald-l-555420212/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/GeraldLofton)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@GeraldLofton)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/Gerald-Lofton)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dev.page/geraldlofton)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg' alt='npm' height='40'>](https://www.npmjs.com/~geraldlofton)
-  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gerald-l-555420212/)&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/GeraldLofton) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@GeraldLofton) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/Gerald-Lofton) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dev.page/geraldlofton) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg' alt='npm' height='40'>](https://www.npmjs.com/~geraldlofton)
+
 <br>
 
 <p align="center">
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=500&size=35&duration=1000&pause=1500&color=00F70E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=500&size=35&duration=2500&pause=3500&color=00F70E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer)](https://git.io/typing-svg)
 
 </p>
 
@@ -26,52 +26,27 @@
 <br>
 <p align="center">🌱 <b>I'm currently learning to on Bettering my skills in Software Development<b>
 </p>
+
+# Languages & Frameworks
+
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)&nbsp;![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)&nbsp;![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+# Testing Frameworks
+
+![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)&nbsp;![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
 <br>
 
-#
+# IDE's Used
 
-<br>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)&nbsp;![Stackblitz](https://img.shields.io/badge/Stackblitz-fff?style=for-the-badge&logo=Stackblitz&logoColor=1389FD)&nbsp;![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)&nbsp;![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)&nbsp;![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT393&size=25&duration=1000&pause=1000&color=00F701&center=true&vCenter=true&width=435&lines=Connect+with+me%3A)](https://git.io/typing-svg)
+# Deployed On
 
-<br>
-
-<p align="center">
-<a href="https://codepen.io/gerald-lofton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gerald-lofton" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/gerald-l-555420212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerald lofton" height="50" width="50" /></a>
-</p>
-
-<br>
-
-#
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT393&size=25&duration=2000&pause=1000&color=00F701&center=true&vCenter=true&width=435&lines=Languages+and+Tools%3A+)](https://git.io/typing-svg)
-
-<br>
-
-<p align="center"><img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />&nbsp;&nbsp;
-<img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />&nbsp;&nbsp;
-<img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />&nbsp;&nbsp;
-<img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp;&nbsp;
-<img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />&nbsp;&nbsp;
-<img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />&nbsp;&nbsp;
-<img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-
-<p align="center"><img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />&nbsp;&nbsp;
-<img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;      
-<img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />&nbsp;&nbsp;
-<img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />&nbsp;&nbsp;
-<img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />&nbsp;&nbsp;          
-<img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />&nbsp;&nbsp;
-<img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain-wordmark.svg" />&nbsp;&nbsp;
-
-<p align="center"><img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />&nbsp;&nbsp;
-<img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />&nbsp;&nbsp;
-<img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-
-</p>
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
 
 <br>
 
