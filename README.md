@@ -23,8 +23,10 @@
 
 #
 
-<br>
-<p align="center">🌱 <b>I'm currently learning to on Bettering my skills in Software Development<b>
+<p align="center"><b>I'm currently learning DevSecOps and AWS Cloud Platform 🔒 ☁️ 🔒<b>
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 </p>
 
 # Languages & Frameworks
@@ -38,7 +40,6 @@
 # Testing Frameworks
 
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)&nbsp;![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
-<br>
 
 # IDE's Used
 
@@ -48,11 +49,17 @@
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
 
-<br>
+# Proficient OS's
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)&nbsp;
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)&nbsp;![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gerald-Lofton&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gerald-lofton&show_icons=true&theme=radical&locale=en" alt="gerald-lofton" /></p>
 
@@ -60,7 +67,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gerald-lofton&show_icons=true&theme=onedark&title_color=00b31e&text_color=f51800&locale=en&layout=compact" alt="gerald-lofton" /></p>
 
-<br>
-<h1>Holopins</h1>
+# Holopins
 
 [![@geraldlofton's Holopin board](https://holopin.me/geraldlofton)](https://holopin.io/@geraldlofton)
