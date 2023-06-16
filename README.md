@@ -1,6 +1,8 @@
-![FS LinkedIn Banner Code](https://user-images.githubusercontent.com/86092569/206061013-f673c80e-01bf-4939-bd42-128f90e40348.png)
+![LinkedIn Code Banner](https://media.licdn.com/dms/image/D5616AQGomgM6WVCvcw/profile-displaybackgroundimage-shrink_350_1400/0/1676138864920?e=1692230400&v=beta&t=0SF8KgKmEnAlcsTMPfyH_7WLa7TkkTLN0umg49dVM2o)
 
-<h1 align="center"><b>Hi 👋, I'm Gerald Lofton</b></h1>
+<h1 align="center">
+  <b>Welcome, I'm Gerald Lofton</b> 🚀
+</h1>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gerald-l-555420212/)&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/GeraldLofton) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@GeraldLofton) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/Gerald-Lofton) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dev.page/geraldlofton) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg' alt='npm' height='40'>](https://www.npmjs.com/~geraldlofton)
 
@@ -23,7 +25,6 @@
 
 #
 
-<p align="center"><b>I'm currently learning DevSecOps 🔒 ☁️ 🔒<b>
 
 </p>
 
