@@ -1,4 +1,4 @@
-![LinkedIn Code Banner](https://media.licdn.com/dms/image/D5616AQGomgM6WVCvcw/profile-displaybackgroundimage-shrink_350_1400/0/1676138864920?e=1692230400&v=beta&t=0SF8KgKmEnAlcsTMPfyH_7WLa7TkkTLN0umg49dVM2o)
+![LinkedIn Code Banner](https://media.licdn.com/dms/image/D5616AQGomgM6WVCvcw/profile-displaybackgroundimage-shrink_350_1400/0/1676138865326?e=1706745600&v=beta&t=ISJtzjU4s_4Vd6zx5dsqZzo18fSzSUVRNPm1-U-YKzU)
 
 <h1 align="center">
   <b>Welcome, I'm Gerald Lofton</b> 🚀
